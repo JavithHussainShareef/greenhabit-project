@@ -49,7 +49,7 @@ A Django web application that helps users track environmental goals, build eco-f
    - Main site: http://127.0.0.1:8000/
    - Admin panel: http://127.0.0.1:8000/admin/
 
-## 📱 Pages & Features
+## Pages & Features
 
 - **Home**: Professional landing page with features overview
 - **Goals**: Browse and interact with community goals
@@ -58,14 +58,14 @@ A Django web application that helps users track environmental goals, build eco-f
 - **Profile**: User profile management
 - **About**: Learn about the GreenHabit mission
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Backend**: Django 5.2
 - **Frontend**: Bootstrap 5, HTML5, CSS3, JavaScript
 - **Database**: SQLite (development)
 - **Authentication**: Django built-in auth system
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 greenhabit-project/
