@@ -1,8 +1,8 @@
-# 🌱 GreenHabit - Sustainable Living Tracker
+# GreenHabit - Sustainable Living Tracker
 
 A Django web application that helps users track environmental goals, build eco-friendly habits, and connect with a community committed to sustainable living.
 
-## ✨ Features
+## Features
 
 - **Goal Tracking**: Set, track, and achieve environmental goals
 - **Community Interaction**: Like and comment on goals from other users
@@ -11,7 +11,7 @@ A Django web application that helps users track environmental goals, build eco-f
 - **Categories**: Organize goals by waste reduction, energy saving, transportation, and food
 - **Responsive Design**: Modern, mobile-friendly interface
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -81,17 +81,17 @@ greenhabit-project/
 └── README.md
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🌍 About
+## About
 
 GreenHabit empowers individuals to create lasting environmental impact through sustainable habits. Join our community and start your green journey today!
